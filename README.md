@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Louise!
 
-I'm a **Le Wagon** Full Stack Web Developer graduate, where we studied Ruby, Rails, JavaScript, HTML, CSS, SQL, Postgresql, OOP and MVC architecrture models and more.
+I'm a **Le Wagon** Full Stack Web Developer graduate, where I studied Ruby, Rails, JavaScript, HTML, CSS, SQL, Postgresql, OOP and MVC architecrture models and more.
 
 Currently doing some further study in JavaScript, React + React Native and Python and I'm keen to learn more and progress as a software engineer. 
 
